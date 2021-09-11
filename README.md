@@ -13,4 +13,5 @@ Repository Link: https://github.com/HrideshSingh/LMSproject
 
 Important: 
 Use npm i to install all dependencies 
+
 Rename the example.env file to .env 
