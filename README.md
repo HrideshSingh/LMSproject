@@ -14,8 +14,8 @@ This LMS system was created using HTML, CSS, Bootstrap, MongoDbAtlas, Node.js(ja
 
 Repository Link: https://github.com/HrideshSingh/LMSproject
 
-Important: 
+## Important
 
-Use npm i to install all dependencies 
+- Use `npm i to install all dependencies ` 
 
-Rename the example.env file to .env 
+- Rename the example.env file to .env
